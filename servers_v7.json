@@ -115,5 +115,9 @@
     {
     "name": "AlternightBR",
     "address": ["mindustrypt.ga:6567","mindustrypt.ga:6565","mindustrypt.ga:7770","mindustrypt.ga:6564","mindustrypt.ga:6566"]
-    }
+    },
+  {
+    "name": "VnMin",
+    "address": ["america-flux.at.playit.gg:23208", "america-flux.at.playit.gg:16094", "america-flux.at.playit.gg:16089"]
+  }
 ]
